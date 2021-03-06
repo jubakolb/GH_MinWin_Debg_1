@@ -1,2 +1,3 @@
 # GH_MinWin_Debg_1
 Minimales Windows- Programm mit BCC5.5 programmiert mit leistungsfähiger Debug- Unterstützung
+Diese ist ein grundlegendes Windows- Projekt als Ausgangsbasis für neue Projekte. Seit Jahren programmiere ich an einem E-Learning Projekt, das in der Endphase ist. Ausgeleitet von diesem großen Projekt extrahiere ich das Grundgerüst für einige nützliche Grundfunktionen. In der Hauptsache handelt es sich bei den Grundfunktionen um 2 oder mehr Debug- Fenster, mit denen Meldungen, die zur Runtime erstellt werden, angezeigt und in Ruhe angeschaut werden können. Es können von den Meldungen, die einem Echtzeittrace entsprechen, Protokollfiles erstellt werden. Der Code wird nach und nach eingefügt.
